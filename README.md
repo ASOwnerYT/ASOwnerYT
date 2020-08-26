@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there, I'm ASOwnerYT 👋
+![Sci-fi cat](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/93a71b91-4097-4020-9bc3-39a9126199ff/de3p7d1-931e05d6-cc4d-46c2-94d1-428e5d874dcb.png/v1/fill/w_1192,h_670,q_70,strp/sci_fi_cat_wallpaper_by_asowneryt_de3p7d1-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD03MjAiLCJwYXRoIjoiXC9mXC85M2E3MWI5MS00MDk3LTQwMjAtOWJjMy0zOWE5MTI2MTk5ZmZcL2RlM3A3ZDEtOTMxZTA1ZDYtY2M0ZC00NmMyLTk0ZDEtNDI4ZTVkODc0ZGNiLnBuZyIsIndpZHRoIjoiPD0xMjgwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0._cQlMJ_T9Cv5N6vNepBBkAfToRWhaIsDiupIczX5N4k)
 
+📫 How to reach me (Discord): ASOwnerYT#7799
 <!--
-**ASOwnerYT/ASOwnerYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
