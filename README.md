@@ -1,7 +1,7 @@
 ### Hi there, I'm ASOwnerYT 👋
 ![Sci-fi cat](https://i.imgur.com/DRk38GL.png)
 
-📫 How to reach me (Discord): ASOwnerYT#7799
+📫 How to reach me (Discord): ASOwnerYT#0333
 <!--
 Here are some ideas to get you started:
 
