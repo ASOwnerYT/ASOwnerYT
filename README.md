@@ -1,5 +1,4 @@
-### Hi there, I'm ASOwnerYT 👋
-![Sci-fi cat](https://i.imgur.com/DRk38GL.png)
+### Hey, I'm ASOwnerYT 👋
 
 📫 How to reach me (Discord): ASOwnerYT#0333
 <!--
