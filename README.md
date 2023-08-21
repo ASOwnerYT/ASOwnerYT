@@ -1,6 +1,8 @@
 ### Hey, I'm ASOwnerYT 👋
 
-📫 How to reach me (Discord): ASOwnerYT#0333
+📫 How to reach me (Discord): ASOwnerYT
+😄 Pronouns: he/him
+- 
 <!--
 Here are some ideas to get you started:
 
@@ -10,6 +12,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 -->
