@@ -1,7 +1,6 @@
 ### Hey, I'm ASOwnerYT 👋
 
 📫 How to reach me (Discord): ASOwnerYT
-😄 Pronouns: he/him
 - 
 <!--
 Here are some ideas to get you started:
